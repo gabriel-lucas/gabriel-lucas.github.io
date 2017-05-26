@@ -1,2 +1,3 @@
 name: My website
 markdown: kramdown
+permalink: /log/:year/:month/:day/:title
